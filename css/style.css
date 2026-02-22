@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
+
   text-align: center;
   background: url("https://cdn.vectorstock.com/i/500p/14/04/pacman-game-with-ghosts-pill-and-cherry-maze-vector-34591404.jpg");
   width: 100%;
@@ -63,6 +63,7 @@ h1 {
   padding: 10px;
   border-radius: 10px;
   border: white 2px solid;
+    font-family: "Press Start 2P", system-ui;
 }
 
 #score {
